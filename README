@@ -6,5 +6,5 @@ Finsight/
 ├── .env
 ├── templates/          
 │   └── index.html
-|-- uploads/
-|--portfolio/
+├── uploads/
+├── portfolio/
