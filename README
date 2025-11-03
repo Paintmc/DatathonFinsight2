@@ -1,0 +1,10 @@
+download all the files then:
+
+Finsight/
+├── app.py
+├── requirements.txt
+├── .env
+├── templates/          
+│   └── index.html
+|-- uploads/
+|--portfolio/
