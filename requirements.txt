@@ -4,3 +4,7 @@ agno
 boto3
 python-dotenv
 pathlib
+uuid
+re
+io
+xml.etree
