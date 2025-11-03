@@ -8,3 +8,10 @@ Finsight/
 │   └── index.html
 ├── uploads/
 ├── portfolio/
+ open the folder in vscode.
+in the terminal write:
+write pip install #followed by all the names in the requirements.txt file spaced out
+then in the terminal write:
+python app.py
+
+then control left click the underlined ip that pops up in the terminal
